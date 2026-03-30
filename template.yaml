@@ -14,7 +14,7 @@ Resources:
       FunctionName: !Sub "UploadsLambda-${Environment}"
       Handler: index.handler
       Runtime: python3.11
-      Role: <LambdaExecutionRoleArn>
+      Role: <arn:aws:iam::825765402564:role/LambdaExecutionRole-Project4>
       Code:
         S3Bucket: <artifact-bucket>
         S3Key: lambda.zip
