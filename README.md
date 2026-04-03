@@ -45,31 +45,25 @@ This follows a typical event-driven serverless architecture widely used in produ
 
 ---
 
-📸 Screenshots
+📸## 📸 Screenshots
 
-CodePipeline
+### CodePipeline
+![CodePipeline](project-4-screenshots/codepipeline.png)
 
-"CodePipeline" (project-4-screenshots/1-codepipeline.png)
+### CodeBuild
+![CodeBuild](project-4-screenshots/codebuild.png)
 
-CodeBuild
+### CloudFormation
+![CloudFormation](project-4-screenshots/cloudformation.png)
 
-"CodeBuild" (project-4-screenshots/2-codebuild.png)
+### S3 Bucket
+![S3](project-4-screenshots/s3.png)
 
-CloudFormation
+### Lambda Function
+![Lambda](project-4-screenshots/lambda.png)
 
-"CloudFormation" (project-4-screenshots/3-cloudformation.png)
-
-S3 Bucket
-
-"S3" (project-4-screenshots/4-s3.png)
-
-Lambda Function
-
-"Lambda" (project-4-screenshots/5-lambda.png)
-
-DynamoDB Table
-
-"DynamoDB" (project-4-screenshots/6-dynamodb.png)
+### DynamoDB Table
+![DynamoDB](project-4-screenshots/dynamodb.png)
 
 ---
 
